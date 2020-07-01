@@ -12,5 +12,5 @@ Selenuim WebDriver - is a useful and one of the most popular tool for cross brow
 
 Specflow - was used to write the feature in a BDD format which is enables collaboration between technical and non-technical parties in the business because of the conversational style
 
-Page Object Model - This is useful as it makes the codes reusable and easily maintained. It improve readability and reduces code duplication  
+Page Object Model - This creates Object Repository for web UI elements. This is useful as it makes the codes reusable and easily maintained. It improve readability and reduces code duplication  
 
