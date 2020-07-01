@@ -18,3 +18,5 @@ Page Object Model - This creates Object Repository for web UI elements. This is 
 
 NUnit Assertion - This is used to validate the business requirement and ensures all business rules are followed
 
+GIT/GIT Bash - for version control and uploading on GitHub
+
